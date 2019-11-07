@@ -1,0 +1,25 @@
+{
+  "name": "file_upload_site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getsec/FileUpload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getsec/FileUpload/issues"
+  },
+  "homepage": "https://github.com/getsec/FileUpload#readme"
+}
